@@ -10,5 +10,5 @@
   <li>Python</li>
 </ul>
 
-<img width="381" height="381" src="artifact.gif">
-<img width="381" height="381" src="artifact (1).gif">
+<img width="381" height="381" src="artifact.gif" style="float:left;">
+<img width="381" height="381" src="artifact (1).gif" style="float:right;">
