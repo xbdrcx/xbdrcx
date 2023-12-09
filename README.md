@@ -2,7 +2,7 @@
 
 <h3>Always looking forward to learn more and improve skills.</h3>
 
-<img width="381" height="381" src="artifact.gif" style="float:left;" align="left">
+<img width="381" height="381" src="artifact.gif">
 
 <h3>Technologies</h3>
 <ul>
