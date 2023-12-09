@@ -2,6 +2,8 @@
 
 <h3>Always looking forward to learn more and improve skills.</h3>
 
+<img width="381" height="381" src="artifact.gif" style="float:left;" align="left">
+
 <h3>Technologies</h3>
 <ul>
   <li>HTML/CSS</li>
@@ -10,5 +12,4 @@
   <li>Python</li>
 </ul>
 
-<img width="381" height="381" src="artifact.gif" style="float:left;" align="left">
-<img width="381" height="381" src="artifact (1).gif" style="float:right;" align="right">
+
