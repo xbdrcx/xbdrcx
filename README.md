@@ -1,1 +1,2 @@
-<h1 style="font-weight: 0"><b>Welcome</b>, I'm Bruno.</h1>
+<h1>Welcome, I'm Bruno.</h1>
+<h2>Web Developer</h2>
