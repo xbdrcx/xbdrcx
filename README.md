@@ -10,4 +10,4 @@
   <li>Python</li>
 </ul>
 
-<img width="381" height="381" src="">
+<img width="381" height="381" src="artifact.gif">
