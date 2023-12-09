@@ -11,3 +11,4 @@
 </ul>
 
 <img width="381" height="381" src="artifact.gif">
+<img width="381" height="381" src="artifact (1).gif">
