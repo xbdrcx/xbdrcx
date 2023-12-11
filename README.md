@@ -8,7 +8,6 @@
 <ul>
   <li>HTML/CSS</li>
   <li>JavaScript</li>
-  <li>A little bit of Jessica</li>
   <li>Python</li>
 </ul>
 
