@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Bruno.</h1>
+<h1>Welcome, I'm Bruno</h1>
 
 <h3>Always looking forward to learn and improve.</h3>
   
