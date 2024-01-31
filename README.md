@@ -20,6 +20,9 @@
   </ul>
 </ul>
 
+<p>Any Bug or Improvement On Any Application:</p>
+<p><a href="mailto:contact.brunocruz@gmail.com">E-mail</a></p>
+
 <!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies</h2></summary>
