@@ -21,6 +21,7 @@
   <li>Python</li>
   <ul>
     <li>Tkinter</li>
+    <li>PyQT6</li>
   </ul>
 </ul>
 
