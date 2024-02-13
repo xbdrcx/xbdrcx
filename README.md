@@ -1,12 +1,12 @@
 <h1>Hi 👋</h1>
 
 <h3>Always looking forward to learn and improve.</h3>
-  
-<img width="381" height="381" src="artifact.gif">
 
 <p>🖥️ Professional Programming Course at Escola Profissional de Tecnologia Digital</p>
 
 <p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
+
+<img width="381" height="381" src="artifact.gif">
 
 <h3>Technologies</h3>
 <ul>
