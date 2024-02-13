@@ -6,7 +6,7 @@
 
 <p>🖥️ Professional Programming Course at Escola Profissional de Tecnologia Digital</p>
 
-<p>🧭 Currently learning AI, Machine Learning, including Generative Deep Learning</p>
+<p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
 
 <h3>Technologies</h3>
 <ul>
