@@ -1,9 +1,13 @@
-<h1>Hi 👋 I'm Bruno</h1>
+<h1>Hi 👋</h1>
 
 <h3>Always looking forward to learn and improve.</h3>
   
 <img width="381" height="381" src="artifact.gif">
-  
+
+<p>🖥️ Professional Programming Course at Escola Profissional de Tecnologia Digital</p>
+
+<p>🧭 Currently learning AI, Machine Learning, including Generative Deep Learning</p>
+
 <h3>Technologies</h3>
 <ul>
   <li>HTML/CSS</li>
@@ -20,8 +24,7 @@
   </ul>
 </ul>
 
-<p>Any Bug or Improvement On Any Application:</p>
-<p><a href="mailto:contact.brunocruz@gmail.com">E-mail</a></p>
+<p><a href="mailto:contact.brunocruz@gmail.com">Contact E-mail</a></p>
 
 <!-- <div id="user-content-toc">
   <ul align="center">
