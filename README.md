@@ -24,6 +24,7 @@
     <li>Tkinter</li>
     <li>PyQT6</li>
   </ul>
+  <li>Kotlin</li>
 </ul>
 
 <p><a href="mailto:contact.brunocruz@gmail.com">Contact E-mail</a></p>
