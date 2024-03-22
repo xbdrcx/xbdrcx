@@ -12,13 +12,7 @@
 <h3>Technologies</h3>
 <ul>
   <li>HTML/CSS</li>
-    <ul>
-      <li>Bootstrap</li>
-    </ul>
   <li>JavaScript</li>
-  <ul>
-    <li>Angular</li>
-  </ul>
   <li>Python</li>
   <ul>
     <li>Tkinter</li>
