@@ -21,7 +21,7 @@
   <li>Kotlin</li>
 </ul>
 
-<p><a href="mailto:contact.brunocruz@gmail.com">Contact E-mail</a></p>
+<p><a href="mailto:contact.brunocruz@gmail.com">Contact e-mail</a></p>
 
 <!-- <div id="user-content-toc">
   <ul align="center">
