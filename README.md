@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>Hello, world 👋</h1>
 
 <!-- <h3>I would say my strongest points are problem-solving and a great desire for innovation.</h3> -->
 <h3>Always looking forward to learn and improve</h3>
