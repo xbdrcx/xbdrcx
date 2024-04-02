@@ -9,7 +9,7 @@
 
 <p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
 
-<p><i>Open to work with other curious minds who have the time and interest in building things</i></p>
+<p><i>Open to work with other curious minds who have the time and are interested in building things</i></p>
 
 <!-- <img width="381" height="381" src="artifact.gif"> -->
 
