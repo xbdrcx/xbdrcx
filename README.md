@@ -9,8 +9,6 @@
 
 <p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
 
-<p><i>Open to work with other curious minds who have the time and are interested in building things</i></p>
-
 <!-- <img width="381" height="381" src="artifact.gif"> -->
 
 <h3>Technologies</h3>
@@ -24,6 +22,8 @@
   </ul>
   <li>Kotlin</li>
 </ul>
+
+<p><i>Open to work with other curious minds who have the time and are interested in building things</i></p>
 
 <p><a href="mailto:contact.brunocruz@gmail.com">Contact e-mail</a></p>
 
