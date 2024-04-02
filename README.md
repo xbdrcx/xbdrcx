@@ -5,6 +5,8 @@
 
 <p>🖥️ Programming Course at Escola Profissional de Tecnologia Digital</p>
 
+<p>👨‍💻 2+ Years of Work Experience as Consultant</p>
+
 <p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
 
 <!-- <img width="381" height="381" src="artifact.gif"> -->
