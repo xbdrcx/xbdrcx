@@ -27,5 +27,5 @@
 
 <p><a href="mailto:contact.brunocruz@gmail.com">Contact e-mail</a></p>
 
-![Codewars]([https://github.r2v.ch/codewars?user=xbdrcx&stroke=white&hide_clan=true](https://www.codewars.com/users/xbdrcx/badges/large))
+![Codewars](https://www.codewars.com/users/xbdrcx/badges/large)
 
