@@ -22,8 +22,6 @@
   </ul>
 </ul>
 
-<p><i>Open to work with other curious minds who have the time and are interested in building things</i></p>
-
 <p><a href="mailto:contact.brunocruz@gmail.com">Contact e-mail</a></p>
 
 ![Codewars](https://www.codewars.com/users/xbdrcx/badges/large)
