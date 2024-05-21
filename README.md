@@ -7,7 +7,7 @@
 
 <p>👨‍💻 2+ Years of Work Experience as Consultant</p>
 
-<p>🧭 Currently learning AI, Machine Learning and Generative Deep Learning</p>
+<p>🧭 Currently learning Machine Learning, NextJS, React and Typescript</p>
 
 <!-- <img width="381" height="381" src="artifact.gif"> -->
 
