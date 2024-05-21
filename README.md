@@ -20,7 +20,6 @@
     <li>Tkinter</li>
     <li>PyQT6</li>
   </ul>
-  <li>Kotlin</li>
 </ul>
 
 <p><i>Open to work with other curious minds who have the time and are interested in building things</i></p>
