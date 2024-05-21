@@ -1,7 +1,7 @@
 <h1>Hello, world 👋</h1>
 
 <!-- <h3>I would say my strongest points are problem-solving and a great desire for innovation.</h3> -->
-<h3>Always looking forward to learn and improve</h3>
+<h3>Always looking to learn and improve</h3>
 
 <p>🖥️ Programming Course at Escola Profissional de Tecnologia Digital</p>
 
