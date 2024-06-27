@@ -14,10 +14,9 @@
 <h3>Technologies</h3>
 <ul>
   <li>HTML/CSS</li>
-  <li>JavaScript</li>
+  <li>Javascript</li>
   <li>Python</li>
   <ul>
-    <li>Tkinter</li>
     <li>PyQT6</li>
   </ul>
 </ul>
