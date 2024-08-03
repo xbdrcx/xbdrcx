@@ -15,6 +15,9 @@
 <ul>
   <li>HTML/CSS</li>
   <li>Javascript</li>
+  <ul>
+    <li>ThreeJS</li>
+  </ul>
   <li>Python</li>
   <ul>
     <li>PyQT6</li>
