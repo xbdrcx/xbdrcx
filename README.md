@@ -1,7 +1,5 @@
 <h1>Hi 👋 I'm Bruno</h1>
 
-<h3>Always looking forward to learn and improve</h3>
-
 <p>🖥️ Programming Course @ Escola Profissional de Tecnologia Digital</p>
 
 <p>👨‍💻 2+ Years of Work Experience as Web Dev</p>
