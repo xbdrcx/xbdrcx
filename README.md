@@ -4,7 +4,7 @@
 
 <p>👨‍💻 2+ Years of Work Experience as Web Dev</p>
 
-<p>🧭 Currently studying Machine Learning and ThreeJS</p>
+<p>🧭 Currently studying machine learning and data science</p>
 
 <hr/>
 
