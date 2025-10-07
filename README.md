@@ -2,7 +2,7 @@
 
 <p>🖥️ Programming Course @ Escola Profissional de Tecnologia Digital</p>
 
-<p>👨‍💻 2+ Years of Work Experience as Web Dev</p>
+<p>👨‍💻 2+ years experience as Web Dev</p>
 
 <p>🧭 Currently studying deep learning and data science</p>
 
