@@ -1,4 +1,6 @@
-I'm Bruno (aka Wave)
+## Hello there
+
+### I'm Bruno (aka Wave)
 
 - 🖥️ Programming Course @ Escola Profissional de Tecnologia Digital
 - 👨‍💻 2+ years experience as Web Dev
