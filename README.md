@@ -1,8 +1,8 @@
 I'm Bruno (aka Wave)
 
-🖥️ Programming Course @ Escola Profissional de Tecnologia Digital
-👨‍💻 2+ years experience as Web Dev
-🧭 Currently studying deep learning and data science
+- 🖥️ Programming Course @ Escola Profissional de Tecnologia Digital
+- 👨‍💻 2+ years experience as Web Dev
+- 🧭 Currently studying deep learning and data science
 
 <a href="https://xbdrcx.github.io" target="blank_">Website</a>
 <br>
