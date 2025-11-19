@@ -2,7 +2,7 @@
 
 ### I'm Bruno (aka Wave)
 
-- 🖥️ Programming Course @ Escola Profissional de Tecnologia Digital, Lisbon
+- 🖥️ Programming Course @ Escola Digital, Lisbon
 - 👨‍💻 2+ years experience as Web Developer
 - 🧭 Currently studying deep learning and data science
 
